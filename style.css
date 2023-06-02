@@ -4,3 +4,11 @@ body {
   margin: 0;
   text-align: center;
 }
+#details{
+  background-color: red;
+  display: flex;
+
+}
+.contactDetails{
+  width: 25%;
+}
